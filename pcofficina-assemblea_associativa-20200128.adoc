@@ -1,0 +1,190 @@
+= Resoconto Assemblea PCOfficina - 28 Gennaio 2020
+Andrea Perotti <info@pcofficina.org>
+v0.1 - 2020-01-28
+:toc: left
+:toc-levels: 3
+:toc-title: Indice
+:numbered:
+:chapter-label:
+
+// Settings
+:imagesdir: resources/images
+//:linkcss:
+:source-highlighter: coderay
+:doctype: book
+// :doctype: article
+:icons: font
+:pdf-themesdir: resources/themes
+:pdf-fontsdir: resources/fonts
+:pdf-style: caesar
+//:pdf-style: example
+// :pdf-style: gps-liberation
+// :pdf-style: gps-noto
+
+//:backend: deckjs
+//:deckjs_theme: web-2.0
+//:deckjs_transition: horizontal-slide
+
+// :navigation:
+// :status:
+// :goto:
+
+
+== Presenti
+* Savino Curci
+* Federico Braghiroli
+* Stefano Chiaron
+* Marcello Aloè
+* Renata Magda Ciri
+* Arnaldo Rebajoli
+* Marco Caliari
+* Alessandro Forti
+* Gerlando Falauto
+* Giulio Avvisati
+* Andrea Perotti
+* Chiara Ramponi
+* Diana Canova
+* Francesco Bizzini
+* Emiliano Di Lenardo
+* Biagio San Bartolomeo
+
+== Presentazione OdG
+h: 20:45
+
+== Punto 0: PCOfficina oltre i PC - la visione
+h: 20:53
+
+* Savino: storie di persone a cui un PC ha cambiato la vita
+* Francesco:
+    ** la routine ammazza il volontariato, 
+    ** cosa possiamo fare/dare per PCOfficina?
+    ** voliamo bassi per esser adeguati
+
+== Bilancio Consuntivo 2019 | Preventivo 2020
+h: 21:06
+
+Presentazione Bilancio
+I numeri in essere fanno sì che non sia utile o opportuno diventare 
+altro che una Associazione cultu
+
+Bilancio approvato all'unanimità:
+
+* Favorevoli    : 17
+* Contrari      : 0
+* Astenuti      : 0
+
+== Rinnovo Cariche Associative
+h: 21:18
+
+Cariche attuali:
+
+* Presidente: Savino Curci
+* Vice Presidente: Marco Cagliari
+* Segretario: Federico Braghiroli
+* Consigliere: Francesco Bizzini
+* Consigliere: Stefano Chiaron
+
+Cariche elette:
+
+* Presidente: Savino Curci          (unanimità)
+* Vice Presidente: Marco Cagliari   (unanimità)
+* Segretario: Federico Braghiroli   (unanimità)
+* Consigliere: Andrea Perotti       (unanimità)
+* Consigliere: Stefano Chiaron      (unanimità)
+
+Francesco Bizzini:
+** faccio passo indietro per permettere un ricambio generazionale
+** usiamo gli strumenti dell'assemblea per aiutarci e mantenere PCOfficina 
+
+== Stato Giuridico dell'Associazione
+h: 21:25
+
+* Riforma del 3° settore: Enti Terzo Settore (ETS) sono le uniche entità che possono interagire 
+legalmente e gestire raccolte fondi e donazioni, ma saranno più controllate.
+* Registro Unico Terzo Settore (RUNTS) ancora in divenire.
+* le piccole associazioni rischiano a diventare ETS
+* PCOfficina è nata come Associazione di Promozione Sociale (APS), che richiederebbe anche di esser registrate nel registro delle APS,
+fatto perchè si pensava di affacciarci al territorio ed interagire
+* Dati i punti di cui sopra 
+
+Per cambiare da APS ad Associazione culturale basta:
+
+* fare assemblea straordinaria
+* preparare un nuovo statuto
+* registrare presso Agenzia Entrate l'associazione
+
+Punto aperto è il capire qual è il quorum necessario perchè l'assemblea staordinaria sia legalmente valida.
+
+Votazione: cambio di nome in "Associazione Culturale PCOfficina". Approvata all'unanimità.
+
+== Investimenti
+h: 21.35
+
+- Router Ethernet 4G
+- Cassetta degli attrezzi
+- Sostegno a soci per partecipare a Corsi Esterni
+- Sostegno a speaker (rimborsi spese) per eventi in loco
+
+Spese approvate:
+
+Proposta di evento a cui partecipare: Italian Hacker Camp https://www.ihc.camp/2020/ - Evento/Camp 29 Luglio / 1 Agosto
+
+== Inventario Elettronico
+h: 21.53
+
+Federico presenta l'origine dell'inventario elettronico e condivide lo stato l'esperienza
+
+Estendere l'inventario ai monitor 
+
+== Manuale Operativo
+h: 22:14
+
+Guida passo passo per PCMeccanici
+
+== Etichette + Manuale
+h: 22:17
+
+Andrea: raccontiamo la storia del PC e di PCOfficina con un adesivo sulle macchine che doniamo
+
+== Tech Talk
+h: 22:26
+
+Andrea: origine e resoconto dell'esperienza dei TechTalk 2019.
+Per il 2020 si son già raccolti gli argomenti dai soci e si 
+richiederà la disponibilità di speaker.
+
+== Assicurazione 
+h: 22:38
+
+Proposta di fare un'assicurazione a copertura di PCOfficina e del gruppo Restarters Milano.
+Savino, Federico e Stefano andranno a parlare
+
+== Definizione delle attività e dei ruoli
+h: 22:53
+
+* Gruppo Segreteria (mail + fb)         :   Francesco B + Stefano C + Andrea P
+* Gruppo Tecnico (sito + mail + gdrive) :   Marco + Marcello + Diana
+
+== Vendita Materiale
+h: 23:10
+
+Se pensiamo che l'oggetto donato sia poi venduto, và dichiarato a priori.
+
+Rilascio Ricevuta
+
+punti aperti da smarcare prima di vendere
+* una associazione culturale può vendere? Con che limiti/vincoli? Può esser fissato il prezzo o solo offerta?
+* come dobbiamo/possiamo rilasciare una ricevuta? Carta semplice o blocchetto?
+
+== Collaborazione con altre associazioni
+h: 23:29
+
+* Smonting Milano: ha successo e c'è sinergia (sono interessati ai nostri PC da 
+* Retroedicola Videoludica: cercano collaborazione, ottimi divulgatori, 
+
+* Cascina Biblioteca (MM2 Udine): richiede restart party - posto fuori mano, di difficile raggiungibilità e con poco passaggio
+
+== Google Calendar
+h: 23:34
+
+* Da popolare con attività dell'associazione e da inserire nel sito.
