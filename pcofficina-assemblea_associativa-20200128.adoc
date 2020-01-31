@@ -197,3 +197,11 @@ h: 23:29
 h: 23:34
 
 * Da popolare con attività dell'associazione e da inserire nel sito.
+
+== Conclusione lavori
+h: 23:40
+
+== Repository Verbale
+
+Il presente ed i successivi verbali associativi possono esser trovati nel repository github associativo:
+https://github.com/pcofficina/verbali_associazione
