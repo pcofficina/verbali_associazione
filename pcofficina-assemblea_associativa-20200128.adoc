@@ -65,7 +65,7 @@ h: 21:06
 
 Presentazione Bilancio
 I numeri in essere fanno sì che non sia utile o opportuno diventare 
-altro che una Associazione cultu
+altro che una Associazione culturale
 
 Bilancio approvato all'unanimità:
 
@@ -123,11 +123,11 @@ h: 21.35
 - Router Ethernet 4G
 - Cassetta degli attrezzi
 - Sostegno a soci per partecipare a Corsi Esterni
-- Sostegno a speaker (rimborsi spese) per eventi in loco
+- Sostegno a speaker (rimborsi spese) per eventi in loco o da remoto (videoconferenze)
 
 Spese approvate:
 
-Proposta di evento a cui partecipare: Italian Hacker Camp https://www.ihc.camp/2020/ - Evento/Camp 29 Luglio / 1 Agosto
+Renata Magda Ciri: Proposta di evento a cui partecipare: Italian Hacker Camp https://www.ihc.camp/2020/ - Evento/Camp 29 Luglio / 1 Agosto
 
 == Inventario Elettronico
 h: 21.53
@@ -139,7 +139,8 @@ Estendere l'inventario ai monitor
 == Manuale Operativo
 h: 22:14
 
-Guida passo passo per PCMeccanici
+Guida passo passo per PCMeccanici da consultare e tenere aggiornata.
+Si propone di pubblicare tale guida sul sito internet di PCOfficina.
 
 == Etichette + Manuale
 h: 22:17
@@ -153,11 +154,19 @@ Andrea: origine e resoconto dell'esperienza dei TechTalk 2019.
 Per il 2020 si son già raccolti gli argomenti dai soci e si 
 richiederà la disponibilità di speaker.
 
+Ripresa audio/video dei talk (previo consenso dell'espositore) e caricamento
+sul canale YouTube di PCOfficina.
+
+
 == Assicurazione 
 h: 22:38
 
-Proposta di fare un'assicurazione a copertura di PCOfficina e del gruppo Restarters Milano.
-Savino, Federico e Stefano andranno a parlare
+Proposta di fare un'assicurazione a copertura di PCOfficina e del gruppo 
+Restarters Milano (con divisione dei costi tra le due).
+
+Savino, Federico e Stefano si consulteranno con CAES per capire quale prodotto 
+assicurativo fare (considerando anche la fase di cambio di PCOfficina da APS 
+ad associazione culturale).
 
 == Definizione delle attività e dei ruoli
 h: 22:53
@@ -172,16 +181,16 @@ Se pensiamo che l'oggetto donato sia poi venduto, và dichiarato a priori.
 
 Rilascio Ricevuta
 
-punti aperti da smarcare prima di vendere
+Punti aperti da smarcare prima di vendere
+
 * una associazione culturale può vendere? Con che limiti/vincoli? Può esser fissato il prezzo o solo offerta?
 * come dobbiamo/possiamo rilasciare una ricevuta? Carta semplice o blocchetto?
 
 == Collaborazione con altre associazioni
 h: 23:29
 
-* Smonting Milano: ha successo e c'è sinergia (sono interessati ai nostri PC da 
-* Retroedicola Videoludica: cercano collaborazione, ottimi divulgatori, 
-
+* Smonting Milano: ha successo e c'è sinergia (sono interessati ai nostri PC da smaltire)
+* Retroedicola Videoludica: cercano collaborazione, ottimi divulgatori (da invitare ad un restart party)
 * Cascina Biblioteca (MM2 Udine): richiede restart party - posto fuori mano, di difficile raggiungibilità e con poco passaggio
 
 == Google Calendar
