@@ -171,8 +171,8 @@ ad associazione culturale).
 == Definizione delle attività e dei ruoli
 h: 22:53
 
-* Gruppo Segreteria (mail + fb)         :   Francesco B + Stefano C + Andrea P
-* Gruppo Tecnico (sito + mail + gdrive) :   Marco + Marcello + Diana
+* Gruppo Segreteria (monitoraggio mail + fb e interazione utenti) :   Francesco B + Stefano C + Andrea P
+* Gruppo Tecnico    (gestione sito + mail + gdrive) 		  :   Marco + Marcello + Diana
 
 == Vendita Materiale
 h: 23:10
